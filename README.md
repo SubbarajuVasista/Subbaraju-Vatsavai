@@ -1,9 +1,9 @@
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm Chinna Subbaraju Vatsavai!
 I am a Principal Consulting Software Engineer with over 10 years of experience in software development, data migration, cloud solutions, and database management. My expertise spans across a variety of technologies and industries, including legal services and higher education. I specialize in building scalable and efficient solutions using Python, AWS, Salesforce, Oracle, and various data engineering tools.
 
 🚀 Skills and Technologies
 Programming Languages: Python, Java, PL/SQL
-Cloud Platforms: AWS (Lambda, S3, Redshift, CloudFormation, CloudWatch), Databricks
+Cloud Platforms: AWS (Lambda,EC2, ECS, S3, Redshift, CloudFormation, CloudWatch), Databricks
 Databases: Oracle, Redshift, Snowflake
 Tools and Technologies: Salesforce, OAuth, API Development, Tableau, Databricks
 Data Engineering: ETL Pipelines, Data Lakes, Data Modeling, Data Governance, Batch Processing
